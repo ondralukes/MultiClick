@@ -1,0 +1,10 @@
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\bin\Release\MultiClick.exe.config
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\bin\Release\MultiClick.exe
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\bin\Release\MultiClick.pdb
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.Form1.resources
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.Properties.Resources.resources
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.csproj.GenerateResource.cache
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.exe
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.pdb
+C:\Users\Ondra\source\repos\MultiClick\MultiClick\obj\Release\MultiClick.csprojAssemblyReference.cache
